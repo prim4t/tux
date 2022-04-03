@@ -27,9 +27,9 @@
 #### FAANG:
 * FAANG gar nicht erst an
 
-
-
+#### F*CK
 * F*CK WINDOWS AND MAC!
+* F*CK FAANG
 
 
 
@@ -66,10 +66,11 @@
 <img src="https://preview.redd.it/4zyfqitle2q81.png?width=960&crop=smart&auto=webp&s=086308da68f1f5120c8bd771b29dbd8ba320077b" width="33%">
 <img src="https://i.redd.it/xz732xmm9hp81.png" width="33%">
 
-## Tux-Tage
-[Website](https://www.tux-tage.de) 
 
-## Support
+---
+
+[Tux-Tage](https://www.tux-tage.de) 
+
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://www.paypal.me/prim4tdotart)
 [![Tip Me via Bitcoin](https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin)](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/3Fkufxcw2xd8HnaRJBNK4ccdtkUDyyNu4V.jpg)
 
