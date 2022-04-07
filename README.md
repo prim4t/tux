@@ -34,13 +34,23 @@
 * FCK BIG TECH
 
 
-### Als T-Shirts/Merch?
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.90minuten.de%2Fmedia%2Fimage%2F5a%2F81%2Fc8%2FT-Shirt_FCK_CPS_indi.jpg&f=1&nofb=1" width="33%">
+#### T-Shirts/Merch
+
+<a href="https://www.zazzle.com/pd/spp/pt-zazzle_shirt?dz=ac4ff92e-64e4-417d-905a-5dbf1ecd3efe&clone=true&pending=true&style=hanes_mens_crew_tshirt_5250&color=white&size=a_s&design.areas=%5Bzazzle_shirt_10x12_front%5D&social=true&view=113745894146800642&rf=238379937270633770" ><img  src="https://www.zazzle.com/rlv/svc/view?rlvnet=1&realview=113745894146800642&design=ac4ff92e-64e4-417d-905a-5dbf1ecd3efe&style=hanes_mens_crew_tshirt_5250&size=a_s&color=white&max_dim=325&bg=0xffffff" alt="T-Shirt" style="border:0;" width="33%"/></a>
+<a href="https://www.zazzle.com/pd/spp/pt-zazzle_shirt?dz=c99009c1-a9f6-44db-8fc5-1d2514399ca0&clone=true&pending=true&style=hanes_mens_crew_tshirt_5250&color=white&size=a_s&design.areas=%5Bzazzle_shirt_10x12_front%5D&social=true&view=113614460602130198&rf=238379937270633770" rel="nofollow " ><img src="https://www.zazzle.com/rlv/svc/view?realview=113614460602130198&design=c99009c1-a9f6-44db-8fc5-1d2514399ca0&style=hanes_mens_crew_tshirt_5250&size=a_s&color=white&max_dim=325&bg=0xffffff" alt="FCKMAC" style="border:0;" width="33%"/></a>
+<a href="https://www.zazzle.com/pd/spp/pt-zazzle_hat?dz=7cbddce7-c056-4acf-bbe7-8b42142718df&clone=true&pending=true&style=trucker_hat&color=white_navy&design.areas=%5Bfront_horz%5D&social=true&view=113647281033678299&rf=238379937270633770" rel="nofollow"><img src="https://www.zazzle.com/rlv/svc/view?rlvnet=1&realview=113647281033678299&design=7cbddce7-c056-4acf-bbe7-8b42142718df&style=trucker_hat&color=white_navy&max_dim=325&bg=0xffffff" alt="Trucker Hat" style="border:0;" width="33%"/></a>
+
+
+
+
+
+
 
 
  <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'>
 
-### <img src="https://www.intraware.com.au/web2017/wp-content/uploads/2017/05/small-twitter-logo-transparent_2472061.png" width="50px"> Twitter/Social Media Ideen 
+### <img src="https://www.intraware.com.au/web2017/wp-content/uploads/2017/05/small-twitter-logo-transparent_2472061.png" width="50px"> Twitter --> [IFTTT](https://ifttt.com/explore)
+
 <a > <img width ='100%'  height ='5px' src ='https://upload.wikimedia.org/wikipedia/commons/b/bf/GradientPurpleBlue.png'> </a>
 
 ## Daily Quotes
